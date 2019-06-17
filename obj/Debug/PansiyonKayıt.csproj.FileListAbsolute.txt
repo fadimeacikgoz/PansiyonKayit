@@ -1,0 +1,10 @@
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\bin\Debug\PansiyonKayıt.exe.config
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\bin\Debug\PansiyonKayıt.exe
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\bin\Debug\PansiyonKayıt.pdb
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.csprojResolveAssemblyReference.cache
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.Form1.resources
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.Properties.Resources.resources
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.csproj.GenerateResource.Cache
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.exe
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.pdb
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\PansiyonKayıt\obj\Debug\PansiyonKayıt.Form2.resources
